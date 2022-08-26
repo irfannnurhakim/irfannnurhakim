@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @irfannnurhakim
 - 👀 I’m interested in Web Programming
-- 🌱 I’m currently learning Javascript and wanna fullstack web developer
+- 🌱 I’m currently learning Javascript and wanna be fullstack web developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : Email to irfannh66@gmail.com
 
